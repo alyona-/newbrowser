@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-width: 980px;
+    width: 100%;
+    position: relative;
+
+}
+div {
+
+    margin-top: 100px;
+    width: 127px;
+    height: 125px;
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    font-family: Arial;
+    font-size: 16pt;
+    overflow: hidden;
+
+
+}
+#block_two {
+    float: right;
+}
+p {
+
+    margin-top: 20px;
+
+}
+
+/*Chrome*/
+#r {
+    color:#00a20d;
+}
+#g {
+    color:#eb0000;
+}
+#y {
+    color:#ffd500;
+}
+/*----*/
+#firefox {
+    color:#ffa500;
+}
+#opera{
+    color:#e10506;
+}
+#safari {
+    color:#646464;
+}
+#yandex {
+    color:#;
+}
+#yandex:first-letter{
+    color:#ff0000;
+}
+#ie {
+    color:#006da6;
+}
